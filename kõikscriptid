@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./apache_install
+./mysql_install
+./php_install
+./phpmyadmin_install
+./wordpress_install
